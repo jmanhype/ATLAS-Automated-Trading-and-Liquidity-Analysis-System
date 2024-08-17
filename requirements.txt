@@ -1,0 +1,11 @@
+yfinance==0.2.18
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.2
+plotly==5.14.1
+transitions==0.9.0
+python-dotenv==1.0.0
+dspy==2.0.5
+sqlalchemy==1.4.47
+psycopg2-binary==2.9.6
+pickle5==0.0.12
