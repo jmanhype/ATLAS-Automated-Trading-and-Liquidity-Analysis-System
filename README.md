@@ -23,7 +23,7 @@ ATLAS (Automated Trading and Liquidity Analysis System) is a sophisticated multi
 1. Clone the ATLAS repository:
    ```
    git clone https://github.com/yourusername/ATLAS.git
-   cd ATLAS
+   cd ATLAS-Automated-Trading-and-Liquidity-Analysis-System
    ```
 
 2. Install required packages:
